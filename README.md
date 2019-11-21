@@ -1,2 +1,2 @@
-# Korea-Speeling-Correction-Resource
-Korea Speeling Correction
+# Korea-Spelling-Correction-Resource
+Korea Spelling Correction
